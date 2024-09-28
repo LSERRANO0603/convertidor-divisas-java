@@ -1,3 +1,11 @@
+
+Currency Converter
+Esta es una aplicación de calculadora de divisas simple desarrollada en JAVA.
+
+Asignatura: TSU En Servicios en la Nube Nombres: Liliana Patricia Apellidos: Serrano de Lemus
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
